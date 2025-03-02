@@ -45,10 +45,3 @@ Before you begin, ensure you have the following installed:
 - **MySQL** (for the database)
 - **Git** (for cloning the repository)
 
-### Setup
-
-#### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/student-leave-management-system.git
-cd student-leave-management-system
