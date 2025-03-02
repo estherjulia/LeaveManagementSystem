@@ -1,6 +1,6 @@
 # **Student Leave Management System**
 
-A simple Student Leave Management System to help students manage and track their leave requests. This system is built with **React.js** for the frontend, **Node.js** for the backend, and **MySQL** as the database to store leave records.
+The **Student Leave Management System** is a web application that allows students to easily manage and track their leave requests. Students can log in to their accounts, apply for leave, check the status of their leave requests, and view their leave history. On the other hand, administrators have the ability to approve or decline leave requests and access the leave history of all students. This system streamlines the leave management process, ensuring smooth communication and record-keeping between students and admins.
 
 ## **Features**
 
